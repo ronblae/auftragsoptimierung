@@ -1,0 +1,23 @@
+// Auftrag Test7
+Benötigte Länge: 98,00cm
+Genutzte Fläche: 82,21%
+ 
+Positionierung der Kundenaufträge:
+	450 540 690 738 - 1 - Auftrag A
+	0 650 348 770 - 2 - Auftrag B
+	0 0 850 540 - 3 - Auftrag C
+	0 540 450 650 - 4 - Auftrag D
+	130 770 750 870 - 5 - Auftrag E
+	130 870 350 980 - 6 - Auftrag F
+	0 770 130 900 - 7 - Auftrag G
+
+
+Verbleibende Andockpunkte:
+	450 738
+	690 540
+	348 650
+	850 0
+	750 770
+	130 980
+	350 870
+	0 900

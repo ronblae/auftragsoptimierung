@@ -1,0 +1,10 @@
+// Auftrag Test1
+10000 8
+50, 100, 1, Auftrag A
+60, 110, 2, Auftrag B
+40, 40, 3, Auftrag C
+90, 100, 4, Auftrag D
+20, 40, 5, Auftrag E
+100, 140, 6, Auftrag F
+70, 250, 7, Auftrag G
+140, 140, 8, Auftrag H

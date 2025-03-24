@@ -1,0 +1,23 @@
+// Auftrag IHK2
+Benötigte Länge: 88,00cm
+Genutzte Fläche: 92,98%
+ 
+Positionierung der Kundenaufträge:
+	297 297 397 397 - 1 - Auftrag A
+	0 420 297 630 - 2 - Auftrag B
+	0 0 297 420 - 3 - Auftrag C
+	594 0 894 880 - 4 - Auftrag D
+	0 630 297 840 - 5 - Auftrag E
+	297 397 594 817 - 8 - Auftrag H
+	297 0 594 297 - 10 - Auftrag J
+
+
+Verbleibende Andockpunkte:
+	397 297
+	297 420
+	594 880
+	894 0
+	0 840
+	297 630
+	297 817
+	594 397

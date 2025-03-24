@@ -1,0 +1,23 @@
+// Auftrag Test4
+Benötigte Länge: 130,80cm
+Genutzte Fläche: 61,59%
+ 
+Positionierung der Kundenaufträge:
+	0 0 240 198 - 1 - Auftrag A
+	0 198 348 318 - 2 - Auftrag B
+	0 318 850 858 - 3 - Auftrag C
+	0 858 450 968 - 4 - Auftrag D
+	0 968 620 1068 - 5 - Auftrag E
+	0 1068 220 1178 - 6 - Auftrag F
+	0 1178 130 1308 - 7 - Auftrag G
+
+
+Verbleibende Andockpunkte:
+	240 0
+	348 198
+	850 318
+	450 858
+	620 968
+	220 1068
+	0 1308
+	130 1178

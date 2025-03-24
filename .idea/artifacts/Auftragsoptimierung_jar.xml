@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Auftragsoptimierung:jar">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="Auftragsoptimierung.jar">
+      <element id="module-output" name="Auftragsoptimierung" />
+    </root>
+  </artifact>
+</component>
